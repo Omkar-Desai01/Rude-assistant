@@ -41,3 +41,7 @@
 .assistant-message {
   font-size: 50px;
 }
+.workMessage {
+  display: absolute;
+  right: 10px;
+}
